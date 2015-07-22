@@ -8,6 +8,8 @@
 	<string>Intel x86 Assembly</string>
 	<key>DocSetPlatformFamily</key>
 	<string>x86</string>
+	<key>dashIndexFilePath</key>
+	<string>html/index.html</string>
 	<key>isDashDocset</key>
 	<true/>
 </dict>
